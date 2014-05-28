@@ -176,7 +176,7 @@
             }
         },
         {
-            "data": "index",
+            "data": "/index.html",
             "tgt": {
                 "process": "woute/Match_mzbq5",
                 "port": "match"
